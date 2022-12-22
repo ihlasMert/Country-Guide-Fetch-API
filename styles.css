@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: aqua;
+  background-color:#3d64e6;
 }
 
 .container {
@@ -24,7 +24,7 @@ body {
 }
 .search-wrapper button {
   font-size: 1em;
-  background-color: aqua;
+  background-color: #222a43;
   color: white;
   padding: 0.8em 0;
   border: none;
@@ -37,4 +37,11 @@ body {
   border-bottom: 2px solid #3d64e6;
   outline: none;
   color: #222a43;
+}
+
+.container .flag-img{
+  display: block;
+  width: 45px;
+  height: 35px;
+  margin: 1.8em auto 1.2em auto;
 }
